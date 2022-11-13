@@ -1,6 +1,6 @@
 {
   "name": "ehsan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Ehsan Sadeghi (https://www.linkedin.com/in/ehsan-sadeghi-530b7658/)",
   "main": "card.js",
   "bin": {
