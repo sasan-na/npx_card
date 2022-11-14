@@ -7,7 +7,7 @@ npx ehsan
 ```
 And get to know me in unique style.
 
-# All I ask of you all is to put a **star** ⭐ on this project for better reach ♥.
+## All I ask of you all is to put a **star** ⭐ on this project for better reach ♥.
 
 ### SCREENSHOT
 
