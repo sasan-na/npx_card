@@ -13,7 +13,7 @@ And get to know me in unique style.
 
 The final output might look something like this:
 
-![image](https://github.com/Sadeghi-Ehsan/npx_card/master/capture.png)
+![image](https://raw.githubusercontent.com/Sadeghi-Ehsan/npx_card/main/capture.png)
 
 
 <hr/>
